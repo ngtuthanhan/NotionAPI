@@ -10,24 +10,7 @@ headers = {
 }
 
 data = {
-    "icon": {
-  	    "emoji": "🥬"
-    },
-    "properties": {
-        "In a": {
-            "checkbox": True
-        },
-        "Price":{
-            "number":5
-        },
-        "Name": {
-            "title":[{
-                "text": {
-                    "content": "Lablah"
-                }
-            }]
-        }
-    }
+    "archived": True
 }
 data = json.dumps(data)
 response = requests.patch(url, headers=headers, data = data)
