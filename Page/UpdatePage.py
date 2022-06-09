@@ -1,6 +1,6 @@
 import requests, json
 
-url = "https://api.notion.com/v1/pages/43ddad39f7264b7ba17d142a1453ece4"
+url = "https://api.notion.com/v1/pages/f6e4acf7bff1403e9a091f9084242fe6"
 
 headers = {
     "Accept": "application/json",
@@ -9,17 +9,9 @@ headers = {
 }
 
 data = {
-    "properties": {
-        "Value": {
-            "rich_text": [
-                {
-                    "text": {
-                        "content": "Pretty Good"
-                    }
-                }
-            ]
-        }        
-    }
+  "properties": {
+    "In stock": { "checkbox": True }
+  }
 }
 data = json.dumps(data)
 response = requests.patch(url, headers=headers, data = data)
