@@ -12,9 +12,9 @@ data = {
         }
     ],
     "properties": {
-        "+1": None,
         "Photo": {
-            "url": {}
+            "url": {},
+            "name": "renamePhoto"
         },
         "Store availability": {
             "multi_select": {

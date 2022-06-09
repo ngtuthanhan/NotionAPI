@@ -1,1 +1,125 @@
-{"object": "list", "results": [{"object": "page", "id": "ea7c6077-5474-4286-935b-6676b77e776d", "created_time": "2022-06-02T12:11:00.000Z", "last_edited_time": "2022-06-07T12:19:00.000Z", "created_by": {"object": "user", "id": "d2680c4b-cbb8-4aa3-8c92-79ff7ba25216"}, "last_edited_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "cover": null, "icon": null, "parent": {"type": "database_id", "database_id": "c4da7ce1-1949-4383-b324-a4236f9e0544"}, "archived": false, "properties": {"Tags": {"id": "~%7CRS", "type": "multi_select", "multi_select": [{"id": "0c3b6624-eedb-4140-8f83-65575405b29c", "name": "Teencode", "color": "green"}]}, "Name": {"id": "title", "type": "title", "title": [{"type": "text", "text": {"content": "Bruh bruh lmao lmao", "link": null}, "annotations": {"bold": false, "italic": false, "strikethrough": false, "underline": false, "code": false, "color": "default"}, "plain_text": "Bruh bruh lmao lmao", "href": null}]}}, "url": "https://www.notion.so/Bruh-bruh-lmao-lmao-ea7c607754744286935b6676b77e776d"}, {"object": "page", "id": "f852b397-b812-478d-8712-1568d2287b8b", "created_time": "2022-05-31T14:28:00.000Z", "last_edited_time": "2022-06-07T12:19:00.000Z", "created_by": {"object": "user", "id": "d2680c4b-cbb8-4aa3-8c92-79ff7ba25216"}, "last_edited_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "cover": null, "icon": null, "parent": {"type": "database_id", "database_id": "c4da7ce1-1949-4383-b324-a4236f9e0544"}, "archived": false, "properties": {"Tags": {"id": "~%7CRS", "type": "multi_select", "multi_select": [{"id": "0c3b6624-eedb-4140-8f83-65575405b29c", "name": "Teencode", "color": "green"}]}, "Name": {"id": "title", "type": "title", "title": [{"type": "text", "text": {"content": "Bruh bruh lmao lmao", "link": null}, "annotations": {"bold": false, "italic": false, "strikethrough": false, "underline": false, "code": false, "color": "default"}, "plain_text": "Bruh bruh lmao lmao", "href": null}]}}, "url": "https://www.notion.so/Bruh-bruh-lmao-lmao-f852b397b812478d87121568d2287b8b"}, {"object": "page", "id": "8c191a76-fd03-4e01-8abe-bbb17e0d97cf", "created_time": "2022-05-31T12:06:00.000Z", "last_edited_time": "2022-05-31T12:06:00.000Z", "created_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "last_edited_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "cover": null, "icon": null, "parent": {"type": "database_id", "database_id": "c4da7ce1-1949-4383-b324-a4236f9e0544"}, "archived": false, "properties": {"Tags": {"id": "~%7CRS", "type": "multi_select", "multi_select": [{"id": "4a6e8c7f-2c38-42dd-8050-75d14af127cc", "name": "Greeting", "color": "brown"}]}, "Name": {"id": "title", "type": "title", "title": [{"type": "text", "text": {"content": "Hi guys", "link": null}, "annotations": {"bold": false, "italic": false, "strikethrough": false, "underline": false, "code": false, "color": "default"}, "plain_text": "Hi guys", "href": null}]}}, "url": "https://www.notion.so/Hi-guys-8c191a76fd034e018abebbb17e0d97cf"}, {"object": "page", "id": "eb88bf81-8b45-4585-a756-1bc8e790cbf7", "created_time": "2022-05-31T12:06:00.000Z", "last_edited_time": "2022-05-31T12:10:00.000Z", "created_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "last_edited_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "cover": null, "icon": null, "parent": {"type": "database_id", "database_id": "c4da7ce1-1949-4383-b324-a4236f9e0544"}, "archived": false, "properties": {"Tags": {"id": "~%7CRS", "type": "multi_select", "multi_select": [{"id": "4a6e8c7f-2c38-42dd-8050-75d14af127cc", "name": "Greeting", "color": "brown"}]}, "Name": {"id": "title", "type": "title", "title": [{"type": "text", "text": {"content": "Good morning", "link": null}, "annotations": {"bold": false, "italic": false, "strikethrough": false, "underline": false, "code": false, "color": "default"}, "plain_text": "Good morning", "href": null}]}}, "url": "https://www.notion.so/Good-morning-eb88bf818b454585a7561bc8e790cbf7"}, {"object": "page", "id": "938d8d81-d290-45af-886b-dd87fe7aee73", "created_time": "2022-05-31T12:05:00.000Z", "last_edited_time": "2022-05-31T12:05:00.000Z", "created_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "last_edited_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "cover": null, "icon": null, "parent": {"type": "database_id", "database_id": "c4da7ce1-1949-4383-b324-a4236f9e0544"}, "archived": false, "properties": {"Tags": {"id": "~%7CRS", "type": "multi_select", "multi_select": [{"id": "860d0f4f-2d2c-4c9a-8183-7e4899562fee", "name": "Apologised", "color": "default"}]}, "Name": {"id": "title", "type": "title", "title": [{"type": "text", "text": {"content": "Sorry", "link": null}, "annotations": {"bold": false, "italic": false, "strikethrough": false, "underline": false, "code": false, "color": "default"}, "plain_text": "Sorry", "href": null}]}}, "url": "https://www.notion.so/Sorry-938d8d81d29045af886bdd87fe7aee73"}, {"object": "page", "id": "97dde2cd-f5a0-4eb2-92bd-8838f10229e8", "created_time": "2022-05-31T12:05:00.000Z", "last_edited_time": "2022-05-31T12:06:00.000Z", "created_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "last_edited_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "cover": null, "icon": null, "parent": {"type": "database_id", "database_id": "c4da7ce1-1949-4383-b324-a4236f9e0544"}, "archived": false, "properties": {"Tags": {"id": "~%7CRS", "type": "multi_select", "multi_select": [{"id": "0c3b6624-eedb-4140-8f83-65575405b29c", "name": "Teencode", "color": "green"}]}, "Name": {"id": "title", "type": "title", "title": [{"type": "text", "text": {"content": "Chậc chậc burh bủh", "link": null}, "annotations": {"bold": false, "italic": false, "strikethrough": false, "underline": false, "code": false, "color": "default"}, "plain_text": "Chậc chậc burh bủh", "href": null}]}}, "url": "https://www.notion.so/Ch-c-ch-c-burh-b-h-97dde2cdf5a04eb292bd8838f10229e8"}, {"object": "page", "id": "f5bd6b7c-a7de-4442-8166-ac30e69f9044", "created_time": "2022-05-31T12:05:00.000Z", "last_edited_time": "2022-05-31T12:05:00.000Z", "created_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "last_edited_by": {"object": "user", "id": "27eb0092-6807-436e-b660-1080b950af09"}, "cover": null, "icon": null, "parent": {"type": "database_id", "database_id": "c4da7ce1-1949-4383-b324-a4236f9e0544"}, "archived": false, "properties": {"Tags": {"id": "~%7CRS", "type": "multi_select", "multi_select": [{"id": "4a6e8c7f-2c38-42dd-8050-75d14af127cc", "name": "Greeting", "color": "brown"}]}, "Name": {"id": "title", "type": "title", "title": [{"type": "text", "text": {"content": "Hello there", "link": null}, "annotations": {"bold": false, "italic": false, "strikethrough": false, "underline": false, "code": false, "color": "default"}, "plain_text": "Hello there", "href": null}]}}, "url": "https://www.notion.so/Hello-there-f5bd6b7ca7de44428166ac30e69f9044"}], "next_cursor": null, "has_more": false, "type": "page", "page": {}}
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "ea7c6077-5474-4286-935b-6676b77e776d",
+            "created_time": "2022-06-02T12:11:00.000Z",
+            "last_edited_time": "2022-06-07T12:19:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "d2680c4b-cbb8-4aa3-8c92-79ff7ba25216"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "27eb0092-6807-436e-b660-1080b950af09"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "c4da7ce1-1949-4383-b324-a4236f9e0544"
+            },
+            "archived": false,
+            "properties": {
+                "Tags": {
+                    "id": "~%7CRS",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "0c3b6624-eedb-4140-8f83-65575405b29c",
+                            "name": "Teencode",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Bruh bruh lmao lmao",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Bruh bruh lmao lmao",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Bruh-bruh-lmao-lmao-ea7c607754744286935b6676b77e776d"
+        },
+        {
+            "object": "page",
+            "id": "f852b397-b812-478d-8712-1568d2287b8b",
+            "created_time": "2022-05-31T14:28:00.000Z",
+            "last_edited_time": "2022-06-07T12:19:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "d2680c4b-cbb8-4aa3-8c92-79ff7ba25216"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "27eb0092-6807-436e-b660-1080b950af09"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "c4da7ce1-1949-4383-b324-a4236f9e0544"
+            },
+            "archived": false,
+            "properties": {
+                "Tags": {
+                    "id": "~%7CRS",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "0c3b6624-eedb-4140-8f83-65575405b29c",
+                            "name": "Teencode",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Bruh bruh lmao lmao",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Bruh bruh lmao lmao",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Bruh-bruh-lmao-lmao-f852b397b812478d87121568d2287b8b"
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page",
+    "page": {}
+}
